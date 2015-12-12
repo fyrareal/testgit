@@ -1,0 +1,36 @@
+GAMEDEV 
+
+Bayu's Board Game (PEnding)
+
+- Roll Dice
+- Pick Weapon
+- Bikin Weapon direction
+- Player's card (3)
+- Counter
+- Efek tiap card
+
+
+- Rotation ???
+
+GAMEDEV
+
+Edo's Fountain Pen (Pending)
+
+Player
+	- Walk 					=  Butuh BG													Done
+	- Jump 					=  																Done
+	- Ink Point				=  mnt artist bikin botol ink								Done
+	- Dead					=  Trigger ga jalan ==
+
+	- Emergency Shot		=  Drop tinta, drop collision yang bikin slow
+	- Sound < 30%	Ink	=  Logic ok, blm aplikasi
+	- Fall						=  Fall mati
+
+Hand
+	- Move					=  butuh animasi											Done
+	- Hit By Emergency	=  Drop tinta, drop collision yang bikin slow 		
+
+PU
+	- Ink Refill				=  Player berenti, belajar biking 'chanelling' bar	
+	- Paper Plane			=  Terbang --!
+	- Eraser					=  Hapus Object... collision dipasang selama n detik
